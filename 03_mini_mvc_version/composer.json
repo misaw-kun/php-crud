@@ -1,0 +1,15 @@
+{
+    "name": "wasim/03_mini_mvc_version",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./src"
+        }
+    },
+    "authors": [
+        {
+            "name": "misaw-kun",
+            "email": "w.akram.1912@protonmail.com"
+        }
+    ],
+    "require": {}
+}

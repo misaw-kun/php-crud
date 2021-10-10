@@ -1,6 +1,6 @@
-#php-crud
+# php-crud
 
-##It contains 3 versions of the same project which involves:
+## It contains 3 versions of the same project which involves:
 ### 1. Easiest implementation but poorly written code.
 ### 2. Relatively better organized code.
 ### 3. A mini-MVC framework.
